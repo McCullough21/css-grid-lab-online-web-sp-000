@@ -13,9 +13,11 @@ body {
   /* your properties here */
 }
 .bigItem {
-  grid-area: footer-start / 1 / footer-end / 4;
+  grid-area: 2 / 2 / 4 / 4;
+  height: 50%;
+  width: 50%;
+  justify-self: center;
 }
-
 .grid-item {
   background-color: grey;
   border: 1px solid black;
