@@ -17,7 +17,7 @@ body {
   height: 50%;
   width: 50%;
   justify-self: center;
-  align-self: center;
+  align-self: baseline;
 }
 .grid-item {
   background-color: grey;
